@@ -2,7 +2,7 @@ import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
 import { AlbumGridItem } from '../components/grid-items'
 import thumbnailPIK from '../public/images/SummerFun.jpg'
-import thumbnailKotu from '../public/images/Kotatua.jpg'
+import thumbnailKotu from '../public/images/Kotatua.JPG'
 import thumbnailBanteng from '../public/images/thumbnailBanteng.jpg'
 
 export default function Albums() {
