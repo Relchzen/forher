@@ -1,5 +1,3 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
 import NextLink from 'next/link'
 import { Box, Container, Heading, Image, Link, Button } from '@chakra-ui/react'
 import Section from '../components/section'
