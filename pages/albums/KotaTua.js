@@ -25,7 +25,6 @@ export default function Album() {
                     </ListItem>
                 </List>
 
-                <AlbumImage src="/images/KotaTua/KotaTua1.jpg" alt="Kota Tua"/>
                 <AlbumImage src="/images/KotaTua/KotaTua2.jpg" alt="Kota Tua"/>
                 <AlbumImage src="/images/KotaTua/KotaTua3.jpg" alt="Kota Tua"/>
                 <AlbumImage src="/images/KotaTua/KotaTua4.jpg" alt="Kota Tua"/>
