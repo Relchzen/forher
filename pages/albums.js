@@ -1,4 +1,4 @@
-import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
+import { Container, Heading, SimpleGrid } from '@chakra-ui/react'
 import Section from '../components/section'
 import { AlbumGridItem } from '../components/grid-items'
 import thumbnailPIK from '../public/images/SummerFun.jpg'
