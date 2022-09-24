@@ -7,7 +7,7 @@ export default function Album() {
     return(
         <Layout title="Kota Tua">
             <Container>
-            <AlbumImage src="/images/KotaTua/KotaTua.jpg" alt="Kota Tua" />
+            <AlbumImage src="/images/KotaTua/KotaTua.JPG" alt="Kota Tua" />
                 <Title>
                     Kota Tua <Badge>2021</Badge>
                 </Title>
@@ -25,15 +25,15 @@ export default function Album() {
                     </ListItem>
                 </List>
 
-                <AlbumImage src="/images/KotaTua/KotaTua2.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua3.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua4.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua5.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua6.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua7.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua8.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua9.jpg" alt="Kota Tua"/>
-                <AlbumImage src="/images/KotaTua/KotaTua10.jpg" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua2.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua3.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua4.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua5.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua6.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua7.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua8.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua9.JPG" alt="Kota Tua"/>
+                <AlbumImage src="/images/KotaTua/KotaTua10.JPG" alt="Kota Tua"/>
             </Container>
         </Layout>
     )
